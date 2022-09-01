@@ -1,1 +1,1 @@
-shell basick
+shell permissions
